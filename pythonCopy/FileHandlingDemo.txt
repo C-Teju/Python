@@ -1,0 +1,4 @@
+Hey 
+This file is to learn file handling in python
+
+
